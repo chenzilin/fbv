@@ -18,7 +18,7 @@ GIF support through libungif has been removed as that library is obsolete.
 # INSTALLATION
   
 ```
-./configure
+cmake .
 make
 make install
 ```
